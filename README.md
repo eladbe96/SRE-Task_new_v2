@@ -24,7 +24,7 @@ Our project's run time is very short(avg of 113.013 ms).
 --- CloudWatch --- Considering that we don't save anything else besides the logs(we are not cloning the repo) 
 the cost of the CloudWatch in our region(eu-west-3/Paris) is $0.5985 per GB.
 
-#Load:#
+*****Load:*****
 
 The queries that we are sending are very short(as mentioned above), and thus we do not having a high load
 for our services.
