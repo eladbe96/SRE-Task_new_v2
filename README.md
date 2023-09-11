@@ -15,7 +15,7 @@ To use this project, you should make sure to have the following:
 3. Terraform Client that will create the project.
 
 
-#Cost:#
+*****Cost:*****
 We are using the following AWS services:
 
 --- Lambda ---  Very low cost, calculated based on the Run-Time and invocation number.
