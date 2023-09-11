@@ -1,6 +1,4 @@
-#Github_Logger Project#
-
-*****TESTING*****
+*****Github_Logger Project*****
 
 This project is able to monitor when PR was merged to the given repo, parsing the information
 that being accepted by the GIT API, and presenting the information regarding the repo and the 
